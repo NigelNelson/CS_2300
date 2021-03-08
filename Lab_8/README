@@ -1,3 +1,5 @@
+Lab 8: Self Driving Car
+
 Overview: In this lab you will be training a Deep Neural Network (DNN) using Keras to enable a car to drive autonomously.  Additionally, you will be generating your own training data and seeing the effect of using different data on the resulting model quality.  You will also be playing with some hyperparameters to get a sense of how they affect the overall model quality. 
 
 This lab was created by adapting an exercise found here: https://towardsdatascience.com/introduction-to-udacity-self-driving-car-simulator-4d78198d301d
