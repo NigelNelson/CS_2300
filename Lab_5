@@ -1,4 +1,4 @@
-# Lab 5: Sparsity
+#Lab 5: Sparsity
 
 Overview: In this lab you will be training a spam classifier using text messages.  To do this you will be modifying and extending a provided Jupyter Notebook that provides the fundamentals.  You will be using a bag-of-words model as a sparse matrix representation of the messages and experimenting with the effect of the sparsity on the storage and performance. 
 
