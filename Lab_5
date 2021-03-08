@@ -1,0 +1,9 @@
+Overview: In this lab you will be training a spam classifier using text messages.  To do this you will be modifying and extending a provided Jupyter Notebook that provides the fundamentals.  You will be using a bag-of-words model as a sparse matrix representation of the messages and experimenting with the effect of the sparsity on the storage and performance. 
+
+The dataset comes from here: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+
+Learning Outcomes:
+
+An understanding of the basics of training a model
+Using a bag-of-words and TFIDF model in SKLearn
+Adjusting sparsity to understand implications on model accuracy and performance
