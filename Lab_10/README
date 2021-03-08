@@ -1,0 +1,8 @@
+Overview: In this lab you will be using multiple GPUs and transfer learning to explore scaling performance with multiple GPUs. You will also explore how transfer learning can help us improve the accuracy of the caltech256 classification challenge.  
+
+Learning Outcomes:
+
+Multi-GPU training understanding
+Usage of Horovod
+Accuracy assessment
+Scaling projections
