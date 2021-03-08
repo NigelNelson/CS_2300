@@ -1,3 +1,5 @@
+## Lab 9: Containers, Grid Search
+
 Overview: In this lab you will be using the command line to execute a model that detects rotten or fresh fruit.  You will get experience running your training within a singularity container in both interactive and batch mode.  You will also use this opportunity to be able to easily run simultaneous experiments with different models and hyperparameters to find an “optimal” hyperparameter configuration.  The end goal is to efficiently improve the quality of the model you produce (pun intended). 
 
 Learning Outcomes:
