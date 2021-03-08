@@ -31,7 +31,7 @@ class KNN:
         Predicts the output variable's values for the query points X using loops.
         """
         predicted = [] # Creates an empty list
-        for i in range(len(X)): # F or loop that iterates for the length of X
+        for i in range(len(X)): # For loop that iterates for the length of X
             distances = [] # Creates an empty list for the distance values
             for y in range(len(self.X)): # Loop that iterates for the number of elements in self.X
                 distances.append(spatial.distance.cdist([X[i]], [self.X[y]])[0]) # Uses spatial.distance.cdist in order to calculate the distance between a single row of X and a single row of self.X
