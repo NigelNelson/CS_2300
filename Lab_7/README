@@ -1,0 +1,9 @@
+Overview: In this lab you will be training a Deep Neural Network using DIGITS.  You will train and test various models and data sets to evaluate multiple aspects of training a DNN model. You will get some experience adjusting hyperparameters, augmenting data, trying different DNN architectures.  You will be writing a lab report to document your experience that includes screenshots.  
+
+Learning Outcomes:
+
+DNN model training
+DNN model inference
+Hyperparameter tuning
+Data Augmentation Introduction
+Overfitting
