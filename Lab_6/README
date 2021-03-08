@@ -1,3 +1,5 @@
+Lab 6: KNN
+
 Overview: You are going to implement the k-nearest neighbors (kNN) algorithm for classification as a Python class using both loops and built in Numpy functionality. You will then apply your implementation to some flower data to analyze the performance differences between loops and Numpy vectorized operations.  kNN was one of the earliest machine learning algorithms, and while it is not widely used outside of recommendation systems (collaborative filtering) these days, it is a good introduction to the process of machine learning.
 
 Learning Outcomes:
